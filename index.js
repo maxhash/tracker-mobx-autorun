@@ -4,7 +4,7 @@ import autorun from './autorun';
 
 checkNpmVersions({
   'mobx': '3.4.x'
-}, 'space:tracker-mobx-autorun');
+}, 'maxhash:tracker-mobx-autorun');
 
 export default autorun;
 export const observe = observeCursor;

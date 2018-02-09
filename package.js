@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'space:tracker-mobx-autorun',
+  name: 'maxhash:tracker-mobx-autorun',
   version: '0.2.0',
   summary: 'Integrate Meteor reactive data with MobX using autorun functions',
   git: 'https://github.com/meteor-space/tracker-mobx-autorun.git',
